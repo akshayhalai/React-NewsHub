@@ -6,7 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Provider } from "react-redux";
 import { store } from "./store/store";
-
+//Akshay HAlaiajiahdaJXHJAsxalsj
 const root = document.getElementById("root");
 const rootElement = createRoot(root);
 
